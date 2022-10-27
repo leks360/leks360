@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leks360
+- 👋 Hi, I’m Lekden
 - 👀 I’m interested in Data Structure and Algorithims and Full Stack Web Development (MERN stack)
 - I’m looking to collaborate on Projects
 - 📫 reach me at lekdendorjiks@gmail.com
