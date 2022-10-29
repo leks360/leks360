@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Lekden
 - 👀 I’m interested in Data Structure and Algorithims and Full Stack Web Development (MERN stack)
+- A big Competetive Programming enthusiast, you can find me on codechef https://www.codechef.com/users/buttermasala
 - I’m looking to collaborate on Projects
 - 📫 reach me at lekdendorjiks@gmail.com
 
